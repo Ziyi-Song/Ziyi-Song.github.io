@@ -28,6 +28,14 @@ Ziyi Song, May 2020, Ann Arbor, MI
 This report is comprised of what I think is most fundamental in Bayesian Nonparametric for novices. The report goes in a sequence of topics: Dirichlet Processes, Dirichlet Process Mixtures, Markov Chain Sampling for Dirichlet Process Mixture models, Hierarchical Dirichlet Processes, applications on autonomous multi-vehicle interaction sce- narios modeling.
 
 
+## Research Summary on Variational Learning for Sparse Gaussian Process
+
+**[Varitional Learning for Sparse Gaussian Process](Variational Inference for Sparse GP.pdf)**\
+Ziyi Song, May 2019, CUHK(SZ), China
+
+
+
+
 ## Course project reports
 
 **[An adventure in Semi-supervised learning](stats 601 project report.pdf), [slides](Exploring_Semi_supervised_learning.pdf), STATS 601**\

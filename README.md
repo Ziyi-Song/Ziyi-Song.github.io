@@ -8,6 +8,8 @@ It is quite natural that a Bayesian concerns Bayesian inference methods for nonp
 
 For example, posterior consistency means that the posterior distribution eventually in the weak sense concentrates its mass at a point in arbitrarily small neighbirhood of the ture value of the parameter with observations increase infinitely, so that the prior choice will not influence too much. Doob's Theorem (1949) tells us that the posterior is consistent for all values of the parameter in the support of the prior. However, the asymptotic properties require much stronger conditions in infinite-dimensional cases. Freedman (1963) first proposed this issue with an infinite-cell multinomial example.
 
+The topics I mention above is only a glimpse of BNP world. Although it cannot tell you the whole story, you still can taste a flavor of the beauty in modern statistics.  
+
 You can use the [editor on GitHub](https://github.com/Ziyi-Song/ziyisong/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

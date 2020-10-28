@@ -7,11 +7,7 @@
 **[DP Mixture inference derivations: an example](Ziyi DPM_infer_deri_example.pdf)**\
 Ziyi Song, June 2020, Ann Arbor, MI
 
-We are familiar with finite Gaussian mixture model in Bayesian world. Routinely construct a generative model augmented with assignment variables and finite k different Gaussian distributions, give priors and observations, compute posterior distributions for all model parameters, directly estimate density, and evaluate predictive distributions.
-
-In this report, we discuss these issues using data distributions derived as normal mixtures in the framework of Dirichlet processes. Besides dealing with above issues, as a natural by-product, we develop approaches to inference about the number of components and modes in a population distribution.
-
-The important content and framework of this report was introduced by Escobar and West (1995). But detailed derivations and steps are skipped in their paper. Our report here provides you a whole story with every single derivation.
+In this report, we discuss issues in Gaussian mixture model using data distributions derived as normal mixtures in the framework of Dirichlet processes. Besides dealing with these issues, as a natural by-product, we develop approaches to inference about the number of components and modes in a population distribution. This report follows Escobar and West (1995).
 
 
 **[Dirichlet Process Report](Ziyi Dirichlet Process Report.pdf)**\

@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My World
+
+I am a second year AMDP program student in the Department of Statistics, University of Michigan.
 [About wulala](wulala.md)
 
 You can use the [editor on GitHub](https://github.com/Ziyi-Song/ziyisong/edit/main/README.md) to maintain and preview the content for your website in Markdown files.

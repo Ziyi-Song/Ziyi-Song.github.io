@@ -4,7 +4,9 @@ I am Ziyi Song(宋子毅), a second year [AMDP program](AMDP.md) student in the 
 
 I currently focus on some readings about **Consistency Theory** and **Contraction Rates** in the context of **Bayesian Nonparametrics (BNP)**. 
 
-It is quite natural that a Bayesian concerns Bayesian inference methods for nonparametrc models, which construct prior distributions on infinite-dimensional spaces instead of putting too much mass on a small set. It avoids unverifiable assumptions in parametric models, and then inference is based on the posterior distribution. A lot challenges and difficulties arise in BNP, like piror construction, computation, asymptotic behavior, etc. For example, posterior consistency ensures that the posterior distribution eventually concentrates its mass at a point in arbitrarily small neighbirhood of the ture value of the parameter, so that the prior choice will not influence too much. 
+It is quite natural that a Bayesian concerns Bayesian inference methods for nonparametrc models, which construct prior distributions on infinite-dimensional spaces instead of putting too much mass on a small set. It avoids unverifiable assumptions in parametric models, and then inference is based on the posterior distribution. A lot challenges and difficulties arise in BNP, like piror construction, computation, asymptotic behavior, etc. 
+
+For example, posterior consistency means that the posterior distribution eventually in the weak sense concentrates its mass at a point in arbitrarily small neighbirhood of the ture value of the parameter with observations increase infinitely, so that the prior choice will not influence too much. Doob's Theorem (1949) tells us that the posterior is consistent for all values of the parameter in the support of the prior. However, the asymptotic properties require much stronger conditions in infinite-dimensional cases. Freedman (1963) first proposed this issue with an infinite-cell multinomial example.
 
 You can use the [editor on GitHub](https://github.com/Ziyi-Song/ziyisong/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

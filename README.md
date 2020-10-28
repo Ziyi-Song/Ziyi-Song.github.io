@@ -1,8 +1,8 @@
-## Welcome to My World
+## Welcome to My Blog
 
-I am a second year AMDP program student in the Department of Statistics, University of Michigan. 
+I am Ziyi Song(宋子毅), a second year AMDP program student in the Department of Statistics, University of Michigan. 
 
-I currently focus on some readings about Consistency THeory and Contraction Rates in the context of Bayesian Nonparametrics.
+I currently focus on some readings about **Consistency Teory** and **Contraction Rates** in the context of **Bayesian Nonparametrics**.
 [About wulala](wulala.md)
 
 You can use the [editor on GitHub](https://github.com/Ziyi-Song/ziyisong/edit/main/README.md) to maintain and preview the content for your website in Markdown files.

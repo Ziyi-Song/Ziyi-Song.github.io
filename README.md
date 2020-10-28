@@ -2,8 +2,9 @@
 
 I am Ziyi Song(宋子毅), a second year [AMDP program](AMDP.md) student in the Department of Statistics, University of Michigan. 
 
-I currently focus on some readings about **Consistency Teory** and **Contraction Rates** in the context of **Bayesian Nonparametrics**. 
-[About wulala](wulala.md)
+I currently focus on some readings about **Consistency Theory** and **Contraction Rates** in the context of **Bayesian Nonparametrics**. 
+
+It is quite natural that a Bayesian concerns Bayesian inference methods for nonparametrc models, which 
 
 You can use the [editor on GitHub](https://github.com/Ziyi-Song/ziyisong/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

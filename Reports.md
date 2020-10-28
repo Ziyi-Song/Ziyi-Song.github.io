@@ -33,9 +33,12 @@ This report is comprised of what I think is most fundamental in Bayesian Nonpara
 **[An adventure in Semi-supervised learning](stats 601 project report.pdf), [slides](Exploring_Semi_supervised_learning.pdf), STATS 601**\
 Trong Dat Do & Ziyi Song, April 2020, Ann Arbor, MI
 
- In this project, we study some semi-supervised learning algorithms and their connection to those that we learn on class. We focus on two questions:
+In this project, we study some semi-supervised learning algorithms and their connection to those that we learn on class. We focus on two questions:
   - How can we use unlabeled data to improve classification quality?
   - How can the limited labeled data help with clustering, especially when some labels not appeared in the labeled data but hidden in the unlabeled part, with a Semi Dirichlet Process Mixture model?
 
 
 **[Adaptive Monte-Carlo Optimization](Biostat 615 project report.pdf), [slides](Adaptive Monte Carlo.pdf), BIOSTATS 615**\
+Ziyi Song & Kexin Zhang, Dec 2019, Ann Arbor, MI
+
+In this project, we utilize adaptive Monte Carlo method to improve KNN (K-nearest neighbors) and medoid computation implementation on time complexity savings with accuracy guaranteed. Adaptive Monte Carlo method was proposed in paper [V.Bagaria, G.M.Kamath & David N. Tse (2018)](https://arxiv.org/abs/1805.08321), combining Monte Carlo method and the celebrated Multi-armed Bandit (MAB) problem.

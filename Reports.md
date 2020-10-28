@@ -5,6 +5,7 @@
 ## Reading reports 
 
 **[Dirichlet Process Report](Ziyi Dirichlet Process Report.pdf)**
-Ziyi Song, May 2020, Ann Arbor
+               Ziyi Song, May 2020, Ann Arbor
+               
 This report is 
 

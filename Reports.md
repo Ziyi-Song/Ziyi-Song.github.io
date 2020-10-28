@@ -7,6 +7,8 @@
 **[EM Convergence Rate](EM Convergence Rate.pdf)**\
 Ziyi Song, Oct 2020, Ann Arbor, MI
 
+This manuscript introduces Theorem 1 & Theorem 2 in paper [R. Dwivedi, N. Ho & K. Khamaru (2020)](https://arxiv.org/abs/1810.00828).
+
 
 
 

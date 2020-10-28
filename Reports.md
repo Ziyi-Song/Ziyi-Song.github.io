@@ -4,6 +4,11 @@
 
 ## Reading manuscripts on EM Convergence Rate
 
+**[EM Convergence Rate](EM Convergence Rate.pdf)**\
+Ziyi Song, Oct 2020, Ann Arbor, MI
+
+
+
 
 ## Reading reports on Dirichlet Process prior
 

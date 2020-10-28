@@ -2,6 +2,9 @@
 
 [Back to home page](README.md)
 
+## Reading manuscripts on EM Convergence Rate
+
+
 ## Reading reports on Dirichlet Process prior
 
 **[DP Mixture inference derivations: an example](Ziyi DPM_infer_deri_example.pdf)**\

@@ -11,7 +11,7 @@ For example, posterior consistency means that the posterior distribution eventua
 
 The topics I mention above is only a glimpse of BNP world. Although it cannot tell you the whole story, you still can taste a flavor of the beauty in modern statistics.  
 
-### Some Math Prerequisites
+### [Some Math Prerequisites I suggest](mathrequirement.md)
 BNP needs us to be very familiar with some graduate-level mathematics, especially probability theory and measure-based real analysis. I am also strengthening my math knowledge right now. I can share you some books I use and find really good.
 - Point-Set Topology: 
   - *Topology*, James R. Munkres, 2nd Edition (2000) 

@@ -1,5 +1,7 @@
 <h1>Some Math Prerequistites I suggest</h1>
 
+[Back to home page](README.md)
+    
 BNP needs us to be very familiar with some graduate-level mathematics, especially probability theory and measure-based real analysis. I am also strengthening my math knowledge right now. I can share you some books I use and find really good.
 - Point-Set Topology: 
   - *Topology*, James R. Munkres, 2nd Edition (2000) 
@@ -16,6 +18,5 @@ BNP needs us to be very familiar with some graduate-level mathematics, especiall
 - To be continued
 
 Mastering knowledge in the books I list here only helps you feel a bit more comfortable while reading materials in Bayesian Nonparametrics. It doesn't mean that you will easily understand BNP with these math tools. These math are necessary but far from sufficient. BNP is appealing and difficult :joy: KEEP LEARNING
-    
-[Back to home page](README.md)    
+     
     

@@ -48,6 +48,7 @@ Some useful references for Inference and Simulation on Dirichlet Process:
 
 
 I also wrote two reading reports on Dirichlet Process:
+- [DP Mixture inference derivations: an example](Ziyi DPM_infer_deri_example.pdf)
 - 
 
 

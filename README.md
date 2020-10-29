@@ -11,10 +11,9 @@ For example, posterior consistency means that the posterior distribution eventua
 
 The topics I mention above is only a glimpse of BNP world. Although it cannot tell you the whole story, you still can taste a flavor of the beauty in modern statistics.  
 
-### [Some Math Prerequisites I suggest](mathrequirement.md)
-
+## [Math Prerequisites I suggest](mathrequirement.md)
     
-## [Some Reports & Manuscripts](Reports.md)
+## [Reports & Manuscripts](Reports.md)
 
-
+## [Interesting Readings](interestingreadings.md)
 

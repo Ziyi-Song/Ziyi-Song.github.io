@@ -3,13 +3,13 @@
 ### At University of Michigan
  
 Fall 2020
-- STATS 621 Probability Theory 
+- STATS 621 Probability Theory, by [Prof. Robert Keener](https://lsa.umich.edu/stats/people/faculty/keener.html)
 - MATH 556 Applied Functional Analysis
 - STATS 750 Directed Reading: supervised by [Prof. Long Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/)
 
 Winter 2020
 - STATS 601 Multivariate and Categorical Data Analysis
-- STATS 611 Large Sample Theory
+- STATS 611 Large Sample Theory, by [Prof. Robert Keener](https://lsa.umich.edu/stats/people/faculty/keener.html)
 - STATS 620 Applied Probability and Stochastic Modeling
 - STATS 499 Honors Seminar: supervised by [Prof. Long Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/)
 

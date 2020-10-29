@@ -17,3 +17,5 @@ The topics I mention above is only a glimpse of BNP world. Although it cannot te
 
 ## [Interesting Readings](interestingreadings.md)
 
+## [Awards](awards.md)
+

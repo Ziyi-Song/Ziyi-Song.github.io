@@ -16,6 +16,15 @@ A comprehensive book:
 This book is difficult for learners, but deserves careful reading again and again.
  
 
+### Topics on Dirichlet Process Prior
+
+I started learning Bayesian Nonparametrics by reading literatures on Dirichlet Process. This topic was first introduced by Thomas Ferguson (1973) and then developed in the following decades and achieved at a great level as [Hierachical Dirichlet Processes](https://people.eecs.berkeley.edu/~jordan/papers/hdp.pdf) around 2005. 
+
+Here is a nice lecture note on Bayesian Nonparametrics, with an emphasis on the modeling and inference using Dirichlet process mixtures and their extensions, by [Prof. Long Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/):
+- [Lectures on Bayesian Nonparametrics: modeling, algorithms and some theory](http://dept.stat.lsa.umich.edu/~xuanlong/Papers/dpm_viasm.pdf)
+
+
+
 
 
 [Back to home page](README.md)

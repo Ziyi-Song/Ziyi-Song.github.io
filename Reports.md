@@ -53,3 +53,6 @@ In this project, we study some semi-supervised learning algorithms and their con
 Ziyi Song & Kexin Zhang, Dec 2019, Ann Arbor, MI
 
 In this project, we utilize adaptive Monte Carlo method to improve KNN (K-nearest neighbors) and medoid computation implementation on time complexity savings with accuracy guaranteed. Adaptive Monte Carlo method was proposed in paper [V.Bagaria, G.M.Kamath & David N. Tse (2018)](https://arxiv.org/abs/1805.08321), combining Monte Carlo method and the celebrated Multi-armed Bandit (MAB) problem.
+
+
+[Back to home page](README.md)

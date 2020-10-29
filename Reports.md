@@ -33,7 +33,9 @@ This report is comprised of what I think is most fundamental in Bayesian Nonpara
 **[Varitional Learning for Sparse Gaussian Process](Variaitonal Inference for Sparse GP.pdf)**\
 Ziyi Song, May 2019, CUHK(SZ), China
 
-This is a summary I wrote while I was conducting my undergraduate research supervised by [Prof. Feng Yin](https://sse.cuhk.edu.cn/en/faculty/yinfeng).
+This is a summary I wrote while I was conducting my undergraduate research supervised by [Prof. Feng Yin](https://sse.cuhk.edu.cn/en/faculty/yinfeng). Roughly speaking, the research project was to combine the variational method with grid spectral mixture (GSM) kernel developed from spectral mixture (SM) kernel and to alleviate the time complexity problem resulted from GSM kernel.
+
+This summary was my lastest understading after I read the Variational Inference Chapter in Pattern Recognition and Machine Learning, and the 2013 paper Stochastic Variational Inference. 
 
 
 

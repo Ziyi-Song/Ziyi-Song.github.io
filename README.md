@@ -17,5 +17,7 @@ The topics I mention above is only a glimpse of BNP world. Although it cannot te
 
 ## [Interesting Readings](interestingreadings.md)
 
+## [Core Courses](corecourses.md)
+
 ## [Awards](awards.md)
 

@@ -3,7 +3,7 @@
 [Back to home page](README.md)
     
 BNP needs us to be very familiar with some graduate-level mathematics, especially probability theory and measure-based real analysis. I am also strengthening my math knowledge right now. I can share you some books I use and find really good.
-- **Point-Set Topology: 
+- **Point-Set Topology**: 
   - *Topology*, James R. Munkres, 2nd Edition (2000) 
     - Reading Chapter 2-4 gives us good enough understandings on some topological notions used in analysis
 - **Real Analysis**: 

@@ -1,5 +1,7 @@
 <h1>Core Courses</h1>
 
+[Back to home page](README.md)
+
 ### At University of Michigan
  
 Fall 2020
@@ -22,6 +24,9 @@ Fall 2019
 
 
 
+### At The Chinese University of Hong Kong, Shenzhen
+
+I learned a lot during my three years at CUHK(SZ), including Stochastic Process, Time Series, Optimization, Multivaraite Stats, Data Mining, Statistical Learning, Regression, Inference, Prob & Stats, Linear Algera, Mathematical Analysis, Calculus, etc.
 
 
 

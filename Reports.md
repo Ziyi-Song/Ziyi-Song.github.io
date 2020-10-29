@@ -33,7 +33,7 @@ This report is comprised of what I think is most fundamental in Bayesian Nonpara
 **[Varitional Learning for Sparse Gaussian Process](Variational Inference for Sparse GP.pdf)**\
 Ziyi Song, May 2019, CUHK(SZ), China
 
-This is summary I wrote while I was conducting undergraduate research supervised by [Prof. Feng Yin](https://sse.cuhk.edu.cn/en/faculty/yinfeng).
+This is a summary I wrote while I was conducting my undergraduate research supervised by [Prof. Feng Yin](https://sse.cuhk.edu.cn/en/faculty/yinfeng).
 
 
 

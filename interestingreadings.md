@@ -23,6 +23,33 @@ I started learning Bayesian Nonparametrics by reading literatures on Dirichlet P
 Here is a nice lecture note on Bayesian Nonparametrics, with an emphasis on the modeling and inference using Dirichlet process mixtures and their extensions, by [Prof. Long Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/):
 - [Lectures on Bayesian Nonparametrics: modeling, algorithms and some theory](http://dept.stat.lsa.umich.edu/~xuanlong/Papers/dpm_viasm.pdf)
 
+Here I think is a good chronological order to follow, so as to have a better feeling of Dirichlet Process:
+
+- *A Bayesian Analysis of Some Nonparametric Problems*, Thomas S. Ferguson, 1973
+- *Ferguson Distributions via Polya Urn Schemes*, D.Blackwell, J.B.MacQueen, 1973
+- *Mixtures of Dirichlet Processes with Applications to Bayesian Nonparametric Problems*, C.E.Antoniak, 1974
+- *On a Class of Bayesian Nonparametric Estimates: I.Density Estimates*, A.Y.Lo, 1984
+- *Estimating Normal Means with a Dirichlet Process Prior*, M.D.Escobar, 1994
+- *Hierarchical priors and mixture models, with applications in regression and density estimation*, M.West, P.Muller & M.D.Escobar, 1994
+- *Bayesian Density Estimation and Inference Using Mixtures*, M.D.Escobar, M.West, 1995
+- *Estimating Mixture of Dirichlet Process Models*, S.N.MacEachern, P.Muller, 1998
+- *Markov Chain Sampling Methods for Dirichlet Process Mixture Models*, R.M.Real, 2000
+- *Latent Dirichlet Allocation*, D.Blei, A.Ng, M.I.Jordan, 2003
+- *Hierarchical Dirichlet Processes*, Y.W.Teh, M.I.Jordan, M.J.Beal, D.Blei, 2006
+- *The Nested Chinese Restaurant Process and Bayesian Nonparametric Inference of Topic Hierarchies*, D.Blei, T.Griffiths, M.I.Jordan, 2007
+- *Distance Dependent Chinese Restaurant Processes*, D.Blei, P.I.Frazier, 2011
+- *Nested Hierarchical Dirichlet Processes*, J.Paisley, C.Wang, D.Blei, M.I.Jordan, 2012
+- *A Sticky HDP-HMM with Application to Speaker Diarization*, E.B.Fox, E.Sudderth, M.I.Jordan, A.S.Willsky, 2011
+
+
+Some useful references for Inference and Simulation on Dirichlet Process:
+- *Probabilistic Inference Using MCMC Methods*, R.M.Neal, 1993
+- *Conjugate Bayesian analysis of the Gaussian distribution*, Kevin P. Murphy, 2007
+
+
+I also wrote two reading reports on Dirichlet Process:
+- 
+
 
 
 
